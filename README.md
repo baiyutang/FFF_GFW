@@ -2,7 +2,7 @@
 
 搜集了很多关于免费翻墙的方案和方法，集中于此
 
->1.手机翻墙，安卓手机可以使用翻墙路由器（<a href="https://goo.gl/pX54UO">fqrouter</a>）
+>1.手机翻墙，安卓手机可以使用<a href="https://goo.gl/pX54UO">翻墙路由器fqrouter</a><a href="http://my.yizhihongxing.com/aff.php?aff=347">梭影</a>
 在手机的浏览器中可以直接下载，但是由于大陆墙的技术加强,这个软件也不是特别的有效，看你运气了~ :)
 
 ___
