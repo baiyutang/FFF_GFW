@@ -11,7 +11,9 @@ ___
           如果想全局翻墙顺畅的连接国外各大网站，这里还有一个相对稳定的解决方案，就是部署 <a href="http://goo.gl/Pqnii8">Goagent GAE</a>;
 
 ___ 
-
+>3.修改hosts,今天找到了更加强大的hosts文件，不仅可以访问谷歌，还能访问facebook，twitter，instagram等网站，喜大普奔~~快戳<a href='http://laod.cn/hosts/2016-google-hosts.html'>这里</a>2016永久更新
 
           
->这几天又发现了一个网站：<a href="http://goo.gl/5FybGT">翻越功夫网</a>，里边也总结了一些方法，特别是利用vps搭建更稳定的vpn值得尝试。
+####参考网站：
+<a href="http://goo.gl/5FybGT">翻越功夫网</a>
+<a href='http://www.yizhihongxing.com/'>一枝红杏-网络加速</a>
