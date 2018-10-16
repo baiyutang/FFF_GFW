@@ -13,6 +13,8 @@ ___
 ___ 
 >3.修改hosts,今天找到了更加强大的hosts文件，不仅可以访问谷歌，还能访问facebook，twitter，instagram等网站，喜大普奔~~快戳<a href='http://laod.cn/hosts/2016-google-hosts.html'>这里</a>2016永久更新
 
+___
+>4.Shadowsocks + 服务
           
 ####参考网站：
 <a href="http://goo.gl/5FybGT">翻越功夫网</a>
